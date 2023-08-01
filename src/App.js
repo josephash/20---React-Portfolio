@@ -5,7 +5,7 @@ import Project from "./components/Project";
 
 function App() {
 	return (
-		<div className="d-flex flex-column justify-content-between align-items-stretch bg-secondary maxsize">
+		<div>
 			<Nav />
 			<Project />
 			<Footer />
